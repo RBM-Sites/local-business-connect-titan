@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "repository": "RBM-Sites/local-business-connect-titan",
+  "public_artifact_sha256": "d1664dac6e2ef67a92c73527788499c9d8ad53560545a6003e89efe645f0948d",
+  "files": {
+    "public/_headers": "11d0658161bbd264ec1225a02549e6e493da2c95ccc5223fe83dd97dad6d9440",
+    "public/about/index.html": "4e0aa01a3115ca562e4dcd2dc70a0ca1c7e63664ccd038de855c0af6e922876b",
+    "public/contact/index.html": "c38ff310ec451ef45aed429c4c6e7f7d60583f8722b0090fa07a7abce299d138",
+    "public/guides/github-guide-cullman/index.html": "26e95c9ad29035af813ac780b5409ce26c801c8fd31547719669fdff7a0b2494",
+    "public/index.html": "6da581b76f8db07a2ecfcef3e108c7aecc69f843727ab2f119979dadbbf71a13",
+    "public/llms.txt": "912e07c3626a9fd793b2efe54202233fb671ecd413e180160a4ba2725f3b2b6c",
+    "public/robots.txt": "e782ca3da28be918b205207fbe1603aeeff319910941c81fc4dc43a20b9793a2",
+    "public/sitemap.xml": "ddee5713b236d36b4f823901643c8eb04540bc3835735f7cd982e99b266f203e",
+    ".github/workflows/lbc-pages.yml": "63e8eab394bc432816d5939d21dc17cf304712078150736d6cd69cb56c8985a7"
+  }
+}

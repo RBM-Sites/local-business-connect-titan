@@ -1,12 +1,12 @@
 {
   "version": 1,
   "repository": "RBM-Sites/local-business-connect-titan",
-  "public_artifact_sha256": "30931cb88ee7c46c3b860a1b3a384a9547114e39a6a44fd8ea6bb7261b5e6005",
+  "public_artifact_sha256": "505888e70be546e3ad00211b80cbf12062f116f3bdfb2a7e8e7f8cd931c4df58",
   "files": {
     "public/_headers": "11d0658161bbd264ec1225a02549e6e493da2c95ccc5223fe83dd97dad6d9440",
     "public/about/index.html": "b5e71c077d6d42821a9c8462cddee9677ddb8ea9d35ec6cc4d297167197ce6c6",
     "public/contact/index.html": "92884503504c9ea0da7d764f179ce43be5148e711456de87e9da339e2d9c5be2",
-    "public/guides/github-guide-cullman/index.html": "19bcbf94f3b1a23cf0d5cecd3b92a32645dd3634dfe0846f3c7ae86e9b5dd633",
+    "public/guides/github-guide-cullman/index.html": "1da90aa45f78a634c3b5eb8de849b773bedf6eaec19a4d96492af5bdeefca222",
     "public/index.html": "04c2fe47d770ed33afda27427dd711a039a4b820a25ccc810b7d61df258f46b4",
     "public/llms.txt": "f9120c6e7bfeb0b19968aa1dc95427b4083caf91d34affe55a50bfe014981176",
     "public/robots.txt": "e782ca3da28be918b205207fbe1603aeeff319910941c81fc4dc43a20b9793a2",
